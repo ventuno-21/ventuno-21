@@ -17,43 +17,6 @@ Welcome! I build robust, production-ready backend systems using Django, FastAPI,
 
 ---
 
-## 🔧 Featured Projects
-
-### 🗳️ Real-Time Polling System
-A full-stack app with:
-
-- Redis-based vote tracking & cooldown logic  
-- Dockerized services with healthcheck sequencing  
-- Admin live results via JavaScript injection  
-- Automated DB migrations and superuser setup  
-- ASGI deployment with Uvicorn  
-
-📁 [View the Repository](https://github.com/ventuno-21?tab=repositories)
-
----
-
-### 🧠 DRF Tips and Tricks – April 2025 Edition  
-A modular Django Rest Framework study project featuring:
-
-- Clean serializers and viewsets  
-- Graphviz `.dot` model diagrams  
-- Performance-aware query techniques  
-- Ideal for learners and backend architects  
-
-📁 [Explore on GitHub](https://github.com/ventuno-21/DRF-Tips-and-Tricks-2025.04.21)
-
----
-
-
-## 📚 Currently Exploring
-
-- 🛰 WebSockets for live dashboards  
-- 🚦 GitHub Actions for automated testing  
-- 🧩 DRF modularization and test coverage  
-- 🛡️ OAuth for authenticated vote tracking
-
----
-
 ## 🤝 Let’s Connect
 
 Into container orchestration, backend performance, or just Redis trickery? Feel free to fork, star, or reach out. I’m always building and documenting — one lesson at a time.
